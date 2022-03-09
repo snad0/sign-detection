@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>thankyou.a827676e-8e68-11ec-8240-f8b156ab036e.jpg</filename>
+	<path>E:\python\Deep Learning\sign detect\TFODCourse\Tensorflow\workspace\images\collectedimages\thankyou\thankyou.a827676e-8e68-11ec-8240-f8b156ab036e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThankYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>172</ymin>
+			<xmax>503</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>livelong</folder>
+	<filename>livelong.b133cfdb-8e68-11ec-b1a5-f8b156ab036e.jpg</filename>
+	<path>E:\python\Deep Learning\sign detect\TFODCourse\Tensorflow\workspace\images\collectedimages\livelong\livelong.b133cfdb-8e68-11ec-b1a5-f8b156ab036e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LiveLong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>106</ymin>
+			<xmax>322</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>
